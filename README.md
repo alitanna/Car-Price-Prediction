@@ -1,10 +1,11 @@
 # Car-Price-Prediction
 
 Car Price Prediction Report
-Aim
+
+Aim:
 The primary objective of this project was to build a machine learning model to predict car prices accurately based on various car attributes. The goal was to identify the most influential features impacting car prices and evaluate the performance of different models to select the best-performing one.
 
-Methodology
+Methodology:
 1. Data Preprocessing
 Dataset Exploration: Loaded the dataset and explored its structure using statistical summaries and data types.
 
